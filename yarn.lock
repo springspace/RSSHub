@@ -1151,10 +1151,10 @@
   dependencies:
     lodash.throttle "^4.1.1"
 
-"@vuepress/plugin-back-to-top@1.0.0-alpha.44":
-  version "1.0.0-alpha.44"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-back-to-top/-/plugin-back-to-top-1.0.0-alpha.44.tgz#e480c23283118a8c90c3291ad1acbae593cf333c"
-  integrity sha512-h2jbvWEDwphoQQ6dq+dvEcFc4gbXFSuUgA7yqfQkqTdtxLnEOkFV5CXoUKhMMJyPR4PqBO6Z4n361BYpSvTwuQ==
+"@vuepress/plugin-back-to-top@1.0.0-alpha.46":
+  version "1.0.0-alpha.46"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-back-to-top/-/plugin-back-to-top-1.0.0-alpha.46.tgz#1c68d9f9216e9cb5f9ab5c9499ef82fec6fad5ba"
+  integrity sha512-xCCC6EuVhKc7uejEGPHzzTRsEnVm/BvhHHevE1EfwVnCmKqkOY+xGpcb3rOX+4HovT03EOAvZEcqVtntqNgL2g==
   dependencies:
     lodash.debounce "^4.0.8"
 
